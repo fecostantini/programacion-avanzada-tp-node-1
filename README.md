@@ -1,7 +1,7 @@
 # TP 1 Node.js
-Integrantes: 
-Pretto, Maximiliano
-Costantini, Francisco
+## Integrantes: 
+###### Pretto, Maximiliano
+###### Costantini, Francisco
 
 ## Resuelto en **callback.js**
 ###### Ejecute	con	nodemon	las	funciones, que sucede cuando	modifica?
